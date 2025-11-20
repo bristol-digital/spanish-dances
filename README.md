@@ -74,7 +74,7 @@ php example.php
 - Zambra
 - Seguidilla
 
-## Publishing to Packagist
+## Published to Packagist
 
 1. Create a GitHub repository for this package
 2. Push your code to GitHub
