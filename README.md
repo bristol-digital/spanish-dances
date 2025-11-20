@@ -15,7 +15,7 @@ A simple "Hello World" PHP package that displays random Spanish dance styles. Th
 ### Via Composer
 
 ```bash
-composer require helloworld/spanish-dance
+composer require bristol-digital/spanish-dances
 ```
 
 ### Manual Installation
@@ -32,7 +32,7 @@ composer require helloworld/spanish-dance
 
 require_once 'vendor/autoload.php';
 
-use HelloWorld\SpanishDance\SpanishDance;
+use BristolDigital\SpanishDance\SpanishDance;
 
 $spanishDance = new SpanishDance();
 

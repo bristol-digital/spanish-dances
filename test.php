@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/autoload.php';
 
-use HelloWorld\SpanishDance\SpanishDance;
+use BristolDigital\SpanishDance\SpanishDance;
 
 echo "=== Spanish Dance Hello World Package ===\n\n";
 

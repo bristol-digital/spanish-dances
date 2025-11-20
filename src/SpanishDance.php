@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\SpanishDance;
+namespace BristolDigital\SpanishDance;
 
 /**
  * A simple "Hello World" class that displays random Spanish dance styles

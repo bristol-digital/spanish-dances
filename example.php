@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use HelloWorld\SpanishDance\SpanishDance;
+use BristolDigital\SpanishDance\SpanishDance;
 
 // Create a new instance
 $spanishDance = new SpanishDance();

@@ -1,7 +1,7 @@
 <?php
 
 spl_autoload_register(function ($class) {
-    $prefix = 'HelloWorld\\SpanishDance\\';
+    $prefix = 'BristolDigital\\SpanishDance\\';
     $base_dir = __DIR__ . '/src/';
 
     $len = strlen($prefix);
