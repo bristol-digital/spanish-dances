@@ -1,13 +1,13 @@
 {
-    "name": "helloworld/spanish-dance",
+    "name": "bristol-digital/spanish-dances",
     "description": "A simple Hello World package that displays random Spanish dance styles",
     "type": "library",
     "keywords": ["hello-world", "spanish", "dance", "example"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "bristol.digital",
+            "email": "code@bristol.digital"
         }
     ],
     "require": {
