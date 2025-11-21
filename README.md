@@ -1,6 +1,6 @@
 # Spanish Dance Hello World
 
-A simple "Hello World" PHP package that displays random Spanish dance styles. This package demonstrates basic Composer package structure and can be published to Packagist.
+A simple "Hello World" PHP package that displays random Spanish dance styles. This package demonstrates basic Composer package structure published to Packagist.
 
 ## Features
 
