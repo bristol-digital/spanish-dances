@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "HelloWorld\\SpanishDance\\": "src/",
+            "BristolDigital\\SpanishDance\\": "src/",
             "BristolDigital\\SpanishDance\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "HelloWorld\\SpanishDance\\Tests\\": "tests/"
+            "BristolDigital\\SpanishDance\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",
